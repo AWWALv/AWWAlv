@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AWWALv
+- 👋 Hi, I’m @AWWWALv
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me 
-    *twitter-  www.twitter.com/awwalv
-    *instagram- www.instagram.com/awwal.v
+    *twitter-  www.twitter.com/awwwalv
+    *instagram- www.instagram.com/awwwal.v
         
 
 <!---
