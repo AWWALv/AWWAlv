@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AWWWALv
+- 👋 Hi, I’m Awwal
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects.
